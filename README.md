@@ -1,0 +1,1 @@
+# Funcao_passada_como_parametro_para_outra_funcao
